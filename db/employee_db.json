@@ -1,0 +1,88 @@
+{
+    "employee": [
+        {
+            "name":"Natali",
+            "surname":"Bogdanova",
+            "fathersName":"Borisova",
+            "position":"cashier",
+            "city":"Kharkiv",
+            "addressOfWork":"st.Voronzova 6",
+            "dateOfBirth":"28.09.1990",
+            "salary":14700,
+            "passportData":"AB567890, 768906435797, c.Kharkiv main department",
+            "attachmentDoc":"/natali_passport.pdf"
+        },
+        {
+            "name":"John",
+            "surname":"Smith",
+            "fathersName":"Andrew",
+            "position":"manager",
+            "city":"Odessa",
+            "addressOfWork":"5th Avenue 123",
+            "dateOfBirth":"15.07.1985",
+            "salary":25000,
+            "passportData":"CD123456, 9876543210, Odessa Department",
+            "attachmentDoc":"/john_passport.pdf"
+        },
+        {
+            "name":"Emma",
+            "surname":"Johnson",
+            "fathersName":"Michael",
+            "position":"sales representative",
+            "city":"Dnipro",
+            "addressOfWork":"Sunset Blvd 456",
+            "dateOfBirth":"03.12.1992",
+            "salary":18000,
+            "passportData":"EF789012, 1234567890, Dnipro Department",
+            "attachmentDoc":"/emma_passport.pdf"
+        },
+        {
+            "name":"David",
+            "surname":"Brown",
+            "fathersName":"Thomas",
+            "position":"technician",
+            "city":"Chicago",
+            "addressOfWork":"Michigan Ave 789",
+            "dateOfBirth":"20.05.1988",
+            "salary":21000,
+            "passportData":"GH345678, 4567890123, Chicago Department",
+            "attachmentDoc":"/david_passport.pdf"
+        },
+        {
+            "name":"Sophia",
+            "surname":"Martinez",
+            "fathersName":"Lopez",
+            "position":"customer service",
+            "city":"Lviv",
+            "addressOfWork":"Ocean Drive 234",
+            "dateOfBirth":"12.11.1995",
+            "salary":17000,
+            "passportData":"IJ901234, 5678901234, Lviv Department",
+            "attachmentDoc":"/sophia_passport.pdf"
+        },
+        {
+            "name":"William",
+            "surname":"Taylor",
+            "fathersName":"Robert",
+            "position":"accountant",
+            "city":"Kyiv",
+            "addressOfWork":"Main St 567",
+            "dateOfBirth":"05.04.1983",
+            "salary":28000,
+            "passportData":"KL567890, 6789012345, Kyiiv Department",
+            "attachmentDoc":"/william_passport.pdf"
+        },
+        {
+            "name":"Olivia",
+            "surname":"Garcia",
+            "fathersName":"Rodriguez",
+            "position":"human resources",
+            "city":"Kharkiv",
+            "addressOfWork":"Market St 890",
+            "dateOfBirth":"30.09.1991",
+            "salary":20000,
+            "passportData":"MN678901, 7890123456, Kharkiv Department",
+            "attachmentDoc":"/olivia_passport.pdf"
+        }
+    ]
+}

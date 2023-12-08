@@ -1,0 +1,66 @@
+{
+    "clients": [
+        {
+            "name":"Neli",
+            "surname":"Loki",
+            "fathersName":"Valentinovna",
+            "historyOfPurchasing":[{
+                "dateOfPurchase":"23.09.2022",
+                "timeOfPurchase":"12:34",
+                "addressOfShop":"st.Voronzova 6",
+                "classificationOfProduct":"hooks",
+                "nameOfProduct":"Owner Prime 200",
+                "quantity":2,
+                "discount":"20%",
+                "priceWithoutDiscount":68.64,
+                "priceWithDiscount":85.80,
+                "totalPrice":137.28
+            }],
+            "discount":"20%",
+            "dateOfBirth":"13.07.1997"
+        },
+        {
+            "name": "John",
+            "surname": "Doe",
+            "fathersName": "Doe Sr.",
+            "historyOfPurchasing": [
+                {
+                    "dateOfPurchase": "01.05.2023",
+                    "timeOfPurchase": "10:00",
+                    "addressOfShop": "Main Street 123",
+                    "classificationOfProduct": "lures",
+                    "nameOfProduct": "FishingMaster Pro",
+                    "quantity": 3,
+                    "discount": "15%",
+                    "priceWithoutDiscount": 45.50,
+                    "priceWithDiscount": 38.68,
+                    "totalPrice": 116.04
+                }
+            ],
+            "discount": "15%",
+            "dateOfBirth": "22.11.1985"
+        },
+        {
+            "name": "Alice",
+            "surname": "Johnson",
+            "fathersName": "Johnson Sr.",
+            "historyOfPurchasing": [
+                {
+                    "dateOfPurchase": "10.12.2023",
+                    "timeOfPurchase": "15:20",
+                    "addressOfShop": "Park Avenue 456",
+                    "classificationOfProduct": "rods",
+                    "nameOfProduct": "Angler's Choice",
+                    "quantity": 1,
+                    "discount": "10%",
+                    "priceWithoutDiscount": 120.75,
+                    "priceWithDiscount": 108.68,
+                    "totalPrice": 108.68
+                }
+            ],
+            "discount": "10%",
+            "dateOfBirth": "05.09.1990"
+        }
+    ]
+}
+

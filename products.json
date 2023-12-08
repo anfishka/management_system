@@ -1,0 +1,219 @@
+{
+    "products": [
+        {
+            "classification": {
+                "hooks": [
+                  
+                {
+                    "product_code": "OwnerCarpDown51458",
+                    "name": "Owner Carp Down 51458",
+                    "img": "/OwnerCarpDown51455.jpg",
+                    "quantity": 60,
+                    "supplier": "Owner Fishing",
+                    "availabilityInStoresByAddress": [
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 1",
+                        "quantity": 30
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 2",
+                        "quantity": 20
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 3",
+                        "quantity": 10
+                      }
+                    ],
+                    "sellingPrice": 70.50,
+                    "purchaseCost": 55.20,
+                    "maxDiscount": 15
+                  },
+                  {
+                    "product_code": "OwnerAmanoTenkaraWithEye50152",
+                    "name": "Owner Amano Tenkara With Eye 50152",
+                    "img": "/OwnerAmanoTenkaraWithEye50152.jpg",
+                    "quantity": 45,
+                    "supplier": "Owner Fishing",
+                    "availabilityInStoresByAddress": [
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 4",
+                        "quantity": 15
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 5",
+                        "quantity": 20
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 6",
+                        "quantity": 10
+                      }
+                    ],
+                    "sellingPrice": 80.90,
+                    "purchaseCost": 65.30,
+                    "maxDiscount": 18
+                  },
+                  {
+                    "product_code": "Owner50922PinHook",
+                    "name": "Owner 50922 Pin Hook",
+                    "img": "/Owner50922PinHook.jpg",
+                    "quantity": 65,
+                    "supplier": "Owner Fishing",
+                    "availabilityInStoresByAddress": [
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 4",
+                        "quantity": 15
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 5",
+                        "quantity": 20
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 6",
+                        "quantity": 10
+                      }
+                    ],
+                    "sellingPrice": 90.50,
+                    "purchaseCost": 65.30,
+                    "maxDiscount": 18
+                  },
+                  {
+                    "product_code": "OwnerTenkara-D50458",
+                    "name": "Owner Tenkara D50458",
+                    "img": "/Owner50922PinHook.jpg",
+                    "quantity": 65,
+                    "supplier": "Owner Fishing",
+                    "availabilityInStoresByAddress": [
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 4",
+                        "quantity": 15
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 5",
+                        "quantity": 20
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 6",
+                        "quantity": 10
+                      }
+                    ],
+                    "sellingPrice": 120.50,
+                    "purchaseCost": 65.30,
+                    "maxDiscount": 18
+                  },
+                  {
+                    "product_code": "OwnerSode",
+                    "name": "Owner Sode",
+                    "img": "/OwnerSode.jpg",
+                    "quantity": 565,
+                    "supplier": "Owner Fishing",
+                    "availabilityInStoresByAddress": [
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 4",
+                        "quantity": 15
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 5",
+                        "quantity": 20
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 6",
+                        "quantity": 10
+                      }
+                    ],
+                    "sellingPrice": 30.50,
+                    "purchaseCost": 65.30,
+                    "maxDiscount": 18
+                  }
+                ],
+                "reel":[
+
+                ],
+                "fishingLine":
+                [
+
+                ],
+                "bait":[
+                    {
+                    "product_code": "ПрикормкаFishDreamClubГейзер",
+                    "name": "Прикормка Fish Dream Club Гейзер",
+                    "img": "/Прикормка Fish Dream Club Гейзер.jpg",
+                    "quantity": 45,
+                    "supplier": "Fishdream",
+                    "availabilityInStoresByAddress": [
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 4",
+                        "quantity": 15
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 5",
+                        "quantity": 20
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 6",
+                        "quantity": 10
+                      }
+                    ],
+                    "sellingPrice": 80.90,
+                    "purchaseCost": 65.30,
+                    "maxDiscount": 18
+                  },
+                  {
+                    "product_code": "ПрикормкаFishDreamClubГроссКарп",
+                    "name": "Прикормка Fish Dream Club Гросс Карп",
+                    "img": "/Прикормка Fish Dream Club Гросс Карп.jpg",
+                    "quantity": 45,
+                    "supplier": "Fishdream",
+                    "availabilityInStoresByAddress": [
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 4",
+                        "quantity": 15
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 5",
+                        "quantity": 20
+                      },
+                      {
+                        "city": "Kharkiv",
+                        "address": "st.Some Address 6",
+                        "quantity": 10
+                      }
+                    ],
+                    "sellingPrice": 80.90,
+                    "purchaseCost": 65.30,
+                    "maxDiscount": 18
+                  }
+
+
+
+                    
+                ],
+                "assembling":[
+
+                ],
+                "rods":[]
+               
+            }
+        
+        }
+    ]
+}
