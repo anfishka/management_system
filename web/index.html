@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" integrity="sha512-b2QcS5SsA8tZodcDtGRELiGv5SaKSk1vDHDaQRda0htPYWZ6046lr3kJ5bAAQdpV2mmA/4v0wQF9MyU6/pDIAg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -32,14 +33,32 @@
       </div>
     </div>
   </nav>
-  <nav class="navbar bg-body-tertiary">
+  <nav class="navbar bg-body-tertiary nav-main">
     <div class="container-fluid">
-        <img class="nav-logo-img" src="../icons/fishLogo.png" alt="logofish">
-    <a class="navbar-brand nav-logo-name" href="#">TackleHaven</a>
+       
+    <a class="navbar-brand nav-logo-name" href="#">
+        <div class="nav-logo-container">
+         <img class="nav-logo-img" src="../icons/fishLogo.png" alt="logofish">
+         <div class="logo-text">
+            <span class="nav-logo-txt">TackleHaven</span>
+            <span class="nav-logo-subtext">РЫБОЛОВНЫЕ СНАСТИ</span>
+        </div>
+            
+    </div>
+        </a>
       <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
+        <input class="form-control me-2" type="search" placeholder="Поиск" aria-label="Search">
+        <button class="btn btn-outline" type="submit">
+          <img src="../icons/search2.png" alt="">
+        </button>
       </form>
+
+      <div class="btn-cart">
+        <a href="" class="link-kart">Корзина
+              <img src="../icons/cart3.png" alt="">
+        </a>
+      
+      </div>
     </div>
   </nav>
   

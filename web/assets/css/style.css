@@ -9,10 +9,64 @@ body{
 
 .nav-logo-name{
     font-family: 'Roboto Condensed', sans-serif;
+    color: #515A81;
+    font-weight: 600;
+    font-size: 80px;
 }
 
 .nav-logo-img{
+   
     width:100px;
     height: 100px;   
 }
 
+.btn-outline{
+    border-color: #515A81;
+    color: black;
+    border: none;
+}
+.btn-outline:hover,:focus{
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-logo-container {
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.logo-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    margin-top: 4px; /* Можно настроить отступ между строками */
+}
+
+.nav-logo-txt {
+    display: block;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #515A81;
+    font-weight: 600;
+    font-size: 45px;
+    
+}
+
+.nav-logo-subtext {
+    display: block;
+    font-size: 20px;
+}
+a{
+    color: #515A81;
+    text-decoration: none;
+}
+
+.form-control{
+width: 350px;
+}
+
+.nav-main{
+    padding-right: 30px;
+    padding-left: 30px;
+}
